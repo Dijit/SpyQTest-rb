@@ -1,4 +1,5 @@
-= SpyQTest =
+SpyQTest
+========
 
 A ruby port of the BBC Basic game.
 
